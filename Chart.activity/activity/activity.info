@@ -7,3 +7,29 @@ exec = sugar-activity activity.ChartActivity -s
 icon = chart-activity
 license = GPLv3+
 mime_types = application/x-chart-activity;
+
+# Added fields
+activity_type = gtk3
+homepage = http://wiki.sugarlabs.org/go/Activities/Chart
+long_description: Sugar Learning Platform - chart activity
+ Sugar Learning Platform promotes collaborative learning through Sugar
+ Activities that encourage critical thinking, the heart of a quality
+ education.  Designed from the ground up especially for children, Sugar
+ offers an alternative to traditional “office-desktop” software.
+ .
+ Learner applications in Sugar are called Activities.  They are software
+ packages that automatically save your work - producing specific
+ instances of the Activity that can be resumed at a later time.  Many
+ Activities support learner collaboration, where multiple learners may
+ be invited to join a collective Activity session.
+ .
+ Chart is a utility to create bars, pie and line charts based in the data
+ provided by the user. The chrts can be save to be used by other activities.
+
+sources_url = http://download.sugarlabs.org/sources/honey/Chart/
+sources_format = tar.bz2
+
+
+[Maintainer]
+name = Agustin Zubiaga
+email = aguz@sugarlabs.org
