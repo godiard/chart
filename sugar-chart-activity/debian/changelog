@@ -1,0 +1,5 @@
+sugar-chart-activity (11-0godiard1) UNRELEASED; urgency=low
+
+  * Initial version for Debian.
+
+ -- Debian Sugar Team <pkg-sugar-devel@lists.alioth.debian.org>  Mon, 01 Jun 2015 15:16:44 -0300
