@@ -3,64 +3,64 @@ Maintainer: Agustin Zubiaga <aguz@sugarlabs.org>
 Source: http://download.sugarlabs.org/sources/honey/Chart/
 
 
-Files: Chart.activity/sugarpycha/bar.py
+Files: sugarpycha/__init__.py
 Copyright: (c) 2007-2010 by Lorenzo Gil Sanchez <lorenzo.gil.sanchez@gmail.com>
 License: GPLv3+
 
-Files: Chart.activity/sugarpycha/scatter.py
+Files: sugarpycha/scatter.py
 Copyright: (c) 2007-2010 by Lorenzo Gil Sanchez <lorenzo.gil.sanchez@gmail.com>
 License: GPLv3+
 
-Files: Chart.activity/sugarpycha/line.py
-Copyright: (c) 2007-2010 by Lorenzo Gil Sanchez <lorenzo.gil.sanchez@gmail.com>
-License: GPLv3+
-
-Files: Chart.activity/sugarpycha/radial.py
+Files: sugarpycha/radial.py
 Copyright: (c) 2011 by Roberto Garcia Carvajal <roberpot@gmail.com>
 License: GPLv3+
 
-Files: Chart.activity/sugarpycha/color.py
-Copyright: (c) 2007-2010 by Lorenzo Gil Sanchez <lorenzo.gil.sanchez@gmail.com>
-License: GPLv3+
-
-Files: Chart.activity/sugarpycha/chart.py
-Copyright: (c) 2007-2010 by Lorenzo Gil Sanchez <lorenzo.gil.sanchez@gmail.com>
-License: GPLv3+
-
-Files: Chart.activity/sugarpycha/stackedbar.py
+Files: sugarpycha/stackedbar.py
 Copyright: (c) 2009 by Yaco S.L. <lgs@yaco.es>
 License: GPLv3+
 
-Files: Chart.activity/sugarpycha/polygonal.py
+Files: sugarpycha/utils.py
+Copyright: (c) 2007-2010 by Lorenzo Gil Sanchez <lorenzo.gil.sanchez@gmail.com>
+License: GPLv3+
+
+Files: sugarpycha/pie.py
+Copyright: (c) 2007-2010 by Lorenzo Gil Sanchez <lorenzo.gil.sanchez@gmail.com>
+License: GPLv3+
+
+Files: sugarpycha/polygonal.py
 Copyright: (c) 2011 by Roberto Garcia Carvajal <roberpot@gmail.com>
 License: GPLv3+
 
-Files: Chart.activity/debian/rules
+Files: helpbutton.py
+Copyright: (C) 2012, Gonzalo Odiard <godiard@gmail.com>
+License: GPLv3+
+
+Files: sugarpycha/chart.py
+Copyright: (c) 2007-2010 by Lorenzo Gil Sanchez <lorenzo.gil.sanchez@gmail.com>
+License: GPLv3+
+
+Files: debian/rules
 Copyright: >
            >
 License: GPLv3+
 
-Files: Chart.activity/setup.py
+Files: setup.py
 Copyright: (C) 2006, Red Hat, Inc.
 License: GPLv3+
 
-Files: Chart.activity/helpbutton.py
-Copyright: (C) 2012, Gonzalo Odiard <godiard@gmail.com>
+Files: sugarpycha/line.py
+Copyright: (c) 2007-2010 by Lorenzo Gil Sanchez <lorenzo.gil.sanchez@gmail.com>
 License: GPLv3+
 
-Files: Chart.activity/fontcombobox.py
+Files: sugarpycha/color.py
+Copyright: (c) 2007-2010 by Lorenzo Gil Sanchez <lorenzo.gil.sanchez@gmail.com>
+License: GPLv3+
+
+Files: fontcombobox.py
 Copyright: (C) 2012 Gonzalo Odiard <gonzalo@laptop.org>
 License: GPLv3+
 
-Files: Chart.activity/sugarpycha/utils.py
-Copyright: (c) 2007-2010 by Lorenzo Gil Sanchez <lorenzo.gil.sanchez@gmail.com>
-License: GPLv3+
-
-Files: Chart.activity/sugarpycha/pie.py
-Copyright: (c) 2007-2010 by Lorenzo Gil Sanchez <lorenzo.gil.sanchez@gmail.com>
-License: GPLv3+
-
-Files: Chart.activity/sugarpycha/__init__.py
+Files: sugarpycha/bar.py
 Copyright: (c) 2007-2010 by Lorenzo Gil Sanchez <lorenzo.gil.sanchez@gmail.com>
 License: GPLv3+
 
