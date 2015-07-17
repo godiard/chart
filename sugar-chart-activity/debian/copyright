@@ -5,68 +5,68 @@ Source: http://download.sugarlabs.org/sources/honey/Chart/
 
 Files: sugarpycha/__init__.py
 Copyright: (c) 2007-2010 by Lorenzo Gil Sanchez <lorenzo.gil.sanchez@gmail.com>
-License: GPLv3+
+License: GPL-3
 
 Files: sugarpycha/scatter.py
 Copyright: (c) 2007-2010 by Lorenzo Gil Sanchez <lorenzo.gil.sanchez@gmail.com>
-License: GPLv3+
+License: GPL-3
 
 Files: sugarpycha/radial.py
 Copyright: (c) 2011 by Roberto Garcia Carvajal <roberpot@gmail.com>
-License: GPLv3+
+License: GPL-3
 
 Files: sugarpycha/stackedbar.py
 Copyright: (c) 2009 by Yaco S.L. <lgs@yaco.es>
-License: GPLv3+
+License: GPL-3
 
 Files: sugarpycha/utils.py
 Copyright: (c) 2007-2010 by Lorenzo Gil Sanchez <lorenzo.gil.sanchez@gmail.com>
-License: GPLv3+
+License: GPL-3
 
 Files: sugarpycha/pie.py
 Copyright: (c) 2007-2010 by Lorenzo Gil Sanchez <lorenzo.gil.sanchez@gmail.com>
-License: GPLv3+
+License: GPL-3
 
 Files: sugarpycha/polygonal.py
 Copyright: (c) 2011 by Roberto Garcia Carvajal <roberpot@gmail.com>
-License: GPLv3+
+License: GPL-3
 
 Files: helpbutton.py
 Copyright: (C) 2012, Gonzalo Odiard <godiard@gmail.com>
-License: GPLv3+
+License: GPL-3
 
 Files: sugarpycha/chart.py
 Copyright: (c) 2007-2010 by Lorenzo Gil Sanchez <lorenzo.gil.sanchez@gmail.com>
-License: GPLv3+
+License: GPL-3
 
 Files: debian/rules
 Copyright: >
            >
-License: GPLv3+
+License: GPL-3
 
 Files: setup.py
 Copyright: (C) 2006, Red Hat, Inc.
-License: GPLv3+
+License: GPL-3
 
 Files: sugarpycha/line.py
 Copyright: (c) 2007-2010 by Lorenzo Gil Sanchez <lorenzo.gil.sanchez@gmail.com>
-License: GPLv3+
+License: GPL-3
 
 Files: sugarpycha/color.py
 Copyright: (c) 2007-2010 by Lorenzo Gil Sanchez <lorenzo.gil.sanchez@gmail.com>
-License: GPLv3+
+License: GPL-3
 
 Files: fontcombobox.py
 Copyright: (C) 2012 Gonzalo Odiard <gonzalo@laptop.org>
-License: GPLv3+
+License: GPL-3
 
 Files: sugarpycha/bar.py
 Copyright: (c) 2007-2010 by Lorenzo Gil Sanchez <lorenzo.gil.sanchez@gmail.com>
-License: GPLv3+
+License: GPL-3
 
 Files: *
 Copyright: Agustin Zubiaga
-License: GPLv3+
+License: GPL-3
  
  Copyright (C) 2015 Agustin Zubiaga
  

@@ -1,6 +1,6 @@
 [Package]
 name = sugar-chart-activity
-version = 0godiard1
+version = 1~godiard1
 vcs-git = https://github.com/godiard/chart.git
 vcs-browser = https://github.com/godiard/chart
 primary_branch = debian-packaging
